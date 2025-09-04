@@ -2,7 +2,7 @@
 
 // Latest release data for your Android app
 const latestRelease = {
-    "tag_name": "v1.0.1", // Update this for every new version
+    "tag_name": "v1.7.3", // Update this for every new version
     "assets": [
         {
             "name": "Kreate-release.apk", // Must match BuildConfig.APP_NAME + "-release.apk"
